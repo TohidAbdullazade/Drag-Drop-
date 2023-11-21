@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#drop-area{
+width: 550px;
+height: 550px;
+border:  1px dashed black;
+margin: 20px auto;
+
+  p{
+    text-align: center;
+    font-size: 20px;
+    border-bottom: 1px solid red;
+  }
+}
