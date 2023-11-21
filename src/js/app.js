@@ -26,7 +26,7 @@ drop_area.addEventListener("drop", (e) => {
     const objectUrl = URL.createObjectURL(file);
     video.src = objectUrl;
     video.style.width = '150px'
-    videopl.play();
+    
     
   }
 
