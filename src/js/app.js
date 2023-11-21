@@ -1,5 +1,5 @@
 let drop_area = document.getElementById("drop-area");
-let videoArea =
+
   // Drag Event
   drop_area.addEventListener("dragover", (e) => {
     e.preventDefault();
